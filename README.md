@@ -4,4 +4,4 @@
 
 This is a snake game which is controlled by gestures which is detected using your webcam. It has been implemented using Python and OpenCV library.  
 
-[Game play](game-play.png)
+[Game play](images/game-play.png)
